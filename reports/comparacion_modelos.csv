@@ -1,0 +1,5 @@
+Modelo,ROC-AUC,PR-AUC,Inasistencias alcanzadas llamando al 20 %,Precisión en el top 20 %
+Regla simple (anticipación),0.691,0.285,0.319,0.294
+Regresión logística,0.726,0.337,0.369,0.34
+Random Forest,0.735,0.349,0.379,0.35
+XGBoost,0.737,0.352,0.383,0.353
